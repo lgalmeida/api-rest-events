@@ -29,7 +29,7 @@ public class EventController {
     @GetMapping("/test")
     public String test() {
         // GET http://localhost:8080/event/test
-        return "Teste efetuado com sucesso! Powered By Heroku teste";
+        return "Teste efetuado com sucesso! Powered By Heroku teste 3";
     }
 
     // Retrieve All
